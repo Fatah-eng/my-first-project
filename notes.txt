@@ -1,5 +1,4 @@
 To-do list:
 - Add a .gitignore file
-- Create a project structure
-- Write documentation in README.md
-- Practise branching and merging
+- Write documentation
+- Practise branching
