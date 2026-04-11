@@ -1,3 +1,1 @@
-This project is a practice repository for learning Git and GitHub.
-It demonstrates how to track changes, commit files, and push to a remote repository.
-It was created as part of a Git practical assessment.
+This project is a practice repository for learning Git and GitHub. It demonstrates how to track changes, commit files, and push to a remote repository. It was created as part of a Git practical assessment.
