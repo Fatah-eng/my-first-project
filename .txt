@@ -1,0 +1,53 @@
+[33mcommit 20b900d1bd6e10979edec9bf3202128094b2452c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelopment[m[33m)[m
+Author: FATAH-eng <abdifatahshariff36@gmail.com>
+Date:   Sat Apr 11 21:34:11 2026 +0300
+
+    Add about.txt with project description
+
+[33mcommit e49efe4a6285b197d914260698c1fed5cb6ad042[m[33m ([m[1;31morigin/development[m[33m)[m
+Author: FATAH-eng <abdifatahshariff36@gmail.com>
+Date:   Fri Apr 10 10:44:58 2026 +0300
+
+    Deleting fil1.txt, fil2.txt, fil3.txt, script.py and scripts.py
+
+[33mcommit 23130a20cc2bc9d55e4df4df763cbdb32e181f20[m[33m ([m[1;31morigin/testing[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/feature-branch[m[33m, [m[1;32mtesting[m[33m, [m[1;32mmain[m[33m, [m[1;32mfeature-branch[m[33m)[m
+Author: FATAH-eng <abdifatahshariff36@gmail.com>
+Date:   Fri Apr 10 10:10:25 2026 +0300
+
+    Pushing all the necesssary changes to main branch
+
+[33mcommit 71abf7b91bf4fe003d7985e61aad56299d5b16df[m[33m ([m[1;32mfeature-branch-Fatah[m[33m, [m[1;32mdevelopment-Fatah[m[33m)[m
+Author: FATAH-eng <abdifatahshariff36@gmail.com>
+Date:   Thu Apr 9 10:13:36 2026 +0300
+
+    Adding heading1 , heading 2 , heading 3, heading 4 in index.html
+
+[33mcommit ca94b550b09d6961435ff7c4ea1afddf6bdd078e[m
+Author: FATAH-eng <abdifatahshariff36@gmail.com>
+Date:   Thu Apr 9 10:05:50 2026 +0300
+
+    No changes
+
+[33mcommit 9780d8c665eaa86de987613beff984038120afd7[m
+Author: FATAH-eng <abdifatahshariff36@gmail.com>
+Date:   Thu Apr 9 09:55:01 2026 +0300
+
+    Adding Fatah is flyyy
+
+[33mcommit 9ef44d53458494017ec1b0691e21870ae84f51a6[m
+Author: FATAH-eng <abdifatahshariff36@gmail.com>
+Date:   Thu Apr 9 09:46:38 2026 +0300
+
+    Adding BLOG.html, Script.py and scripts.py, Editing content of scripts.py
+
+[33mcommit 7a3a9be0e5973f5298f752baacb4224cec039357[m
+Author: FATAH-eng <abdifatahshariff36@gmail.com>
+Date:   Thu Apr 9 00:09:07 2026 +0300
+
+    first commit
+
+[33mcommit ec83e11fd8d552e8b2b9c931568f8acb37076d4f[m
+Author: FATAH-eng <abdifatahshariff36@gmail.com>
+Date:   Wed Apr 8 22:22:19 2026 +0300
+
+    Initial commit: add README and index

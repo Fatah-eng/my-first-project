@@ -1,0 +1,4 @@
+To-do list:
+- Add a .gitignore file
+- Write documentation
+- Practise branching
